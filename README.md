@@ -6,8 +6,8 @@
   239  ls
   240  cd phase-0-gps-1
   241  ls
-  242  git status
-  243  git add awesome_page.md 
+  242  git status // checks modified files in git
+  243  git add awesome_page.md
   244  git status
   245  git commit -v
   246  git status
